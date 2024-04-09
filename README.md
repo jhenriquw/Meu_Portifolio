@@ -1,4 +1,4 @@
-# Jhenriquw_ Portfólio
+# João Henrique |  Portfólio
 
 Este é o meu portfólio pessoal hospedado no GitHub. Aqui você encontrará uma coleção dos meus projetos, habilidades e experiência. Sinta-se à vontade para explorar e entrar em contato comigo se tiver alguma dúvida ou oportunidade de colaboração.
 
